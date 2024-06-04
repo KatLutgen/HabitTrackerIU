@@ -1,0 +1,775 @@
+2024-05-05 12:51:52,597 - INFO - User logged in successfully.
+2024-05-05 12:51:52,597 - WARNING - User not found in the database.
+2024-05-05 12:51:52,599 - INFO - Database initialized successfully.
+2024-05-05 12:51:55,192 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 12:53:27,839 - INFO - User logged in successfully.
+2024-05-05 12:53:27,839 - WARNING - User not found in the database.
+2024-05-05 12:53:27,842 - INFO - Database initialized successfully.
+2024-05-05 12:53:30,666 - ERROR - Error occurred during authentication for user 1: argument 'hashed_password': 'str' object cannot be converted to 'PyBytes'
+2024-05-05 12:53:43,647 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 12:53:45,912 - INFO - User logged in successfully.
+2024-05-05 12:53:45,912 - WARNING - User not found in the database.
+2024-05-05 12:53:45,913 - INFO - Database initialized successfully.
+2024-05-05 13:01:19,172 - INFO - User logged in successfully.
+2024-05-05 13:01:19,172 - WARNING - User not found in the database.
+2024-05-05 13:01:19,175 - INFO - Database initialized successfully.
+2024-05-05 13:01:19,284 - ERROR - Failed to initialize database: attempted relative import beyond top-level package
+2024-05-05 13:02:50,471 - INFO - User logged in successfully.
+2024-05-05 13:02:50,471 - WARNING - User not found in the database.
+2024-05-05 13:02:50,476 - INFO - Database initialized successfully.
+2024-05-05 13:02:58,080 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 13:11:12,721 - INFO - User logged in successfully.
+2024-05-05 13:11:12,722 - WARNING - User not found in the database.
+2024-05-05 13:11:12,727 - INFO - Database initialized successfully.
+2024-05-05 13:12:03,295 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 13:12:25,320 - INFO - User logged in successfully.
+2024-05-05 13:12:25,320 - WARNING - User not found in the database.
+2024-05-05 13:12:25,323 - INFO - Database initialized successfully.
+2024-05-05 13:12:33,428 - INFO - User 1 registered successfully.
+2024-05-05 13:12:39,317 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 13:12:41,340 - INFO - User logged in successfully.
+2024-05-05 13:12:41,340 - WARNING - User not found in the database.
+2024-05-05 13:12:41,340 - INFO - Database initialized successfully.
+2024-05-05 13:12:44,835 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 13:24:37,097 - INFO - User logged in successfully.
+2024-05-05 13:24:37,098 - WARNING - User not found in the database.
+2024-05-05 13:24:37,100 - INFO - Database initialized successfully.
+2024-05-05 13:27:43,300 - INFO - User logged in successfully.
+2024-05-05 13:27:43,301 - WARNING - User not found in the database.
+2024-05-05 13:27:43,303 - INFO - Database initialized successfully.
+2024-05-05 13:29:13,148 - INFO - User logged in successfully.
+2024-05-05 13:29:13,149 - WARNING - User not found in the database.
+2024-05-05 13:29:13,149 - INFO - Database initialized successfully.
+2024-05-05 13:30:31,104 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 13:30:31,252 - INFO - User logged in successfully.
+2024-05-05 13:30:31,252 - WARNING - User not found in the database.
+2024-05-05 13:30:31,253 - INFO - Database initialized successfully.
+2024-05-05 13:32:41,581 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 13:32:41,708 - INFO - User logged in successfully.
+2024-05-05 13:32:41,708 - WARNING - User not found in the database.
+2024-05-05 13:32:41,708 - INFO - Database initialized successfully.
+2024-05-05 13:35:56,779 - INFO - User logged in successfully.
+2024-05-05 13:35:56,779 - WARNING - User not found in the database.
+2024-05-05 13:35:56,782 - INFO - Database initialized successfully.
+2024-05-05 13:35:56,787 - ERROR - Failed to initialize database: '(' was never closed (Gui.py, line 272)
+2024-05-05 13:36:38,955 - INFO - User logged in successfully.
+2024-05-05 13:36:38,956 - WARNING - User not found in the database.
+2024-05-05 13:36:38,958 - INFO - Database initialized successfully.
+2024-05-05 13:38:41,965 - INFO - User logged in successfully.
+2024-05-05 13:38:41,966 - WARNING - User not found in the database.
+2024-05-05 13:38:41,969 - INFO - Database initialized successfully.
+2024-05-05 13:40:38,551 - INFO - User logged in successfully.
+2024-05-05 13:40:38,551 - WARNING - User not found in the database.
+2024-05-05 13:40:38,552 - INFO - Database initialized successfully.
+2024-05-05 13:41:52,570 - INFO - User logged in successfully.
+2024-05-05 13:41:52,570 - WARNING - User not found in the database.
+2024-05-05 13:41:52,571 - INFO - Database initialized successfully.
+2024-05-05 13:44:44,309 - INFO - User logged in successfully.
+2024-05-05 13:44:44,310 - WARNING - User not found in the database.
+2024-05-05 13:44:44,311 - INFO - Database initialized successfully.
+2024-05-05 13:47:21,060 - INFO - User logged in successfully.
+2024-05-05 13:47:21,061 - WARNING - User not found in the database.
+2024-05-05 13:47:21,061 - INFO - Database initialized successfully.
+2024-05-05 13:47:48,965 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 13:48:30,746 - INFO - User logged in successfully.
+2024-05-05 13:48:30,746 - WARNING - User not found in the database.
+2024-05-05 13:48:30,750 - INFO - Database initialized successfully.
+2024-05-05 13:48:40,543 - INFO - User 1 registered successfully.
+2024-05-05 13:48:54,014 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 13:52:07,948 - INFO - User logged in successfully.
+2024-05-05 13:52:07,949 - WARNING - User not found in the database.
+2024-05-05 13:52:07,953 - INFO - Database initialized successfully.
+2024-05-05 13:55:19,766 - INFO - User logged in successfully.
+2024-05-05 13:55:19,766 - WARNING - User not found in the database.
+2024-05-05 13:55:19,770 - INFO - Database initialized successfully.
+2024-05-05 14:06:41,553 - INFO - User logged in successfully.
+2024-05-05 14:06:41,555 - WARNING - User not found in the database.
+2024-05-05 14:06:41,558 - INFO - Database initialized successfully.
+2024-05-05 14:07:58,091 - INFO - User logged in successfully.
+2024-05-05 14:07:58,091 - WARNING - User not found in the database.
+2024-05-05 14:07:58,095 - INFO - Database initialized successfully.
+2024-05-05 14:08:55,585 - INFO - User logged in successfully.
+2024-05-05 14:08:55,586 - WARNING - User not found in the database.
+2024-05-05 14:08:55,589 - INFO - Database initialized successfully.
+2024-05-05 14:12:30,426 - INFO - User logged in successfully.
+2024-05-05 14:12:30,426 - WARNING - User not found in the database.
+2024-05-05 14:12:30,434 - INFO - Database initialized successfully.
+2024-05-05 14:12:58,715 - INFO - User logged in successfully.
+2024-05-05 14:12:58,715 - WARNING - User not found in the database.
+2024-05-05 14:12:58,717 - INFO - Database initialized successfully.
+2024-05-05 14:21:45,532 - INFO - User logged in successfully.
+2024-05-05 14:21:45,532 - WARNING - User not found in the database.
+2024-05-05 14:21:45,535 - INFO - Database initialized successfully.
+2024-05-05 14:22:50,546 - INFO - User logged in successfully.
+2024-05-05 14:22:50,546 - WARNING - User not found in the database.
+2024-05-05 14:22:50,547 - INFO - Database initialized successfully.
+2024-05-05 14:25:52,055 - INFO - User logged in successfully.
+2024-05-05 14:25:52,056 - WARNING - User not found in the database.
+2024-05-05 14:25:52,057 - INFO - Database initialized successfully.
+2024-05-05 14:26:09,771 - INFO - User logged in successfully.
+2024-05-05 14:26:09,771 - WARNING - User not found in the database.
+2024-05-05 14:26:09,772 - INFO - Database initialized successfully.
+2024-05-05 14:30:20,459 - INFO - User logged in successfully.
+2024-05-05 14:30:20,459 - WARNING - User not found in the database.
+2024-05-05 14:30:20,460 - INFO - Database initialized successfully.
+2024-05-05 14:31:15,167 - INFO - User logged in successfully.
+2024-05-05 14:31:15,167 - WARNING - User not found in the database.
+2024-05-05 14:31:15,168 - INFO - Database initialized successfully.
+2024-05-05 14:31:50,899 - INFO - User logged in successfully.
+2024-05-05 14:31:50,899 - WARNING - User not found in the database.
+2024-05-05 14:31:50,900 - INFO - Database initialized successfully.
+2024-05-05 16:26:49,600 - INFO - User logged in successfully.
+2024-05-05 16:26:49,600 - WARNING - User not found in the database.
+2024-05-05 16:26:49,604 - INFO - Database initialized successfully.
+2024-05-05 16:31:53,285 - INFO - User logged in successfully.
+2024-05-05 16:31:53,285 - WARNING - User not found in the database.
+2024-05-05 16:31:53,289 - INFO - Database initialized successfully.
+2024-05-05 16:36:36,168 - INFO - User logged in successfully.
+2024-05-05 16:36:36,168 - WARNING - User not found in the database.
+2024-05-05 16:36:36,171 - INFO - Database initialized successfully.
+2024-05-05 16:45:59,487 - INFO - User logged in successfully.
+2024-05-05 16:45:59,488 - WARNING - User not found in the database.
+2024-05-05 16:45:59,491 - INFO - Database initialized successfully.
+2024-05-05 16:49:08,384 - INFO - User logged in successfully.
+2024-05-05 16:49:08,384 - WARNING - User not found in the database.
+2024-05-05 16:49:08,385 - INFO - Database initialized successfully.
+2024-05-05 16:51:30,586 - INFO - User logged in successfully.
+2024-05-05 16:51:30,586 - WARNING - User not found in the database.
+2024-05-05 16:51:30,586 - INFO - Database initialized successfully.
+2024-05-05 16:51:51,372 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 16:58:20,683 - INFO - User logged in successfully.
+2024-05-05 16:58:20,683 - WARNING - User not found in the database.
+2024-05-05 16:58:20,687 - INFO - Database initialized successfully.
+2024-05-05 17:01:41,031 - INFO - User logged in successfully.
+2024-05-05 17:01:41,031 - WARNING - User not found in the database.
+2024-05-05 17:01:41,035 - INFO - Database initialized successfully.
+2024-05-05 17:04:56,148 - INFO - User logged in successfully.
+2024-05-05 17:04:56,148 - WARNING - User not found in the database.
+2024-05-05 17:04:56,151 - INFO - Database initialized successfully.
+2024-05-05 17:06:51,776 - INFO - User logged in successfully.
+2024-05-05 17:06:51,776 - WARNING - User not found in the database.
+2024-05-05 17:06:51,778 - INFO - Database initialized successfully.
+2024-05-05 17:09:36,706 - INFO - User logged in successfully.
+2024-05-05 17:09:36,707 - WARNING - User not found in the database.
+2024-05-05 17:09:36,709 - INFO - Database initialized successfully.
+2024-05-05 17:10:36,427 - INFO - User logged in successfully.
+2024-05-05 17:10:36,427 - WARNING - User not found in the database.
+2024-05-05 17:10:36,428 - INFO - Database initialized successfully.
+2024-05-05 17:14:02,938 - INFO - User logged in successfully.
+2024-05-05 17:14:02,938 - WARNING - User not found in the database.
+2024-05-05 17:14:02,942 - INFO - Database initialized successfully.
+2024-05-05 17:16:13,457 - INFO - User logged in successfully.
+2024-05-05 17:16:13,457 - WARNING - User not found in the database.
+2024-05-05 17:16:13,460 - INFO - Database initialized successfully.
+2024-05-05 17:26:35,597 - INFO - User logged in successfully.
+2024-05-05 17:26:35,597 - WARNING - User not found in the database.
+2024-05-05 17:26:35,601 - INFO - Database initialized successfully.
+2024-05-05 17:52:18,565 - INFO - User logged in successfully.
+2024-05-05 17:52:18,565 - WARNING - User not found in the database.
+2024-05-05 17:52:18,569 - INFO - Database initialized successfully.
+2024-05-05 18:01:13,981 - INFO - User logged in successfully.
+2024-05-05 18:01:13,982 - WARNING - User not found in the database.
+2024-05-05 18:01:13,982 - INFO - Database initialized successfully.
+2024-05-05 18:05:12,083 - INFO - User logged in successfully.
+2024-05-05 18:05:12,083 - WARNING - User not found in the database.
+2024-05-05 18:05:12,087 - INFO - Database initialized successfully.
+2024-05-05 18:13:14,957 - INFO - User logged in successfully.
+2024-05-05 18:13:14,957 - WARNING - User not found in the database.
+2024-05-05 18:13:14,960 - INFO - Database initialized successfully.
+2024-05-05 18:14:27,256 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 18:14:34,652 - INFO - User logged in successfully.
+2024-05-05 18:14:34,652 - WARNING - User not found in the database.
+2024-05-05 18:14:34,653 - INFO - Database initialized successfully.
+2024-05-05 18:15:18,883 - INFO - User logged in successfully.
+2024-05-05 18:15:18,883 - WARNING - User not found in the database.
+2024-05-05 18:15:18,884 - INFO - Database initialized successfully.
+2024-05-05 18:16:42,844 - INFO - User logged in successfully.
+2024-05-05 18:16:42,844 - WARNING - User not found in the database.
+2024-05-05 18:16:42,845 - INFO - Database initialized successfully.
+2024-05-05 18:19:02,756 - INFO - User logged in successfully.
+2024-05-05 18:19:02,756 - WARNING - User not found in the database.
+2024-05-05 18:19:02,759 - INFO - Database initialized successfully.
+2024-05-05 18:22:55,986 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 18:30:13,081 - INFO - User logged in successfully.
+2024-05-05 18:30:13,081 - WARNING - User not found in the database.
+2024-05-05 18:30:13,084 - INFO - Database initialized successfully.
+2024-05-05 18:32:19,752 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 18:32:57,303 - INFO - User logged in successfully.
+2024-05-05 18:32:57,303 - WARNING - User not found in the database.
+2024-05-05 18:32:57,306 - INFO - Database initialized successfully.
+2024-05-05 18:33:24,149 - INFO - User mutti registered successfully.
+2024-05-05 18:40:40,624 - INFO - User logged in successfully.
+2024-05-05 18:40:40,625 - WARNING - User not found in the database.
+2024-05-05 18:40:40,628 - INFO - Database initialized successfully.
+2024-05-05 18:45:06,957 - INFO - User logged in successfully.
+2024-05-05 18:45:06,958 - WARNING - User not found in the database.
+2024-05-05 18:45:06,961 - INFO - Database initialized successfully.
+2024-05-05 18:48:53,955 - INFO - User logged in successfully.
+2024-05-05 18:48:53,955 - WARNING - User not found in the database.
+2024-05-05 18:48:53,956 - INFO - Database initialized successfully.
+2024-05-05 18:50:42,332 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-05 18:50:42,444 - INFO - User logged in successfully.
+2024-05-05 18:50:42,444 - WARNING - User not found in the database.
+2024-05-05 18:50:42,445 - INFO - Database initialized successfully.
+2024-05-05 18:50:47,870 - INFO - User logged in successfully.
+2024-05-05 18:50:47,870 - WARNING - User not found in the database.
+2024-05-05 18:50:47,870 - INFO - Database initialized successfully.
+2024-05-06 14:30:21,040 - INFO - User logged in successfully.
+2024-05-06 14:30:21,040 - WARNING - User not found in the database.
+2024-05-06 14:30:21,042 - INFO - Database initialized successfully.
+2024-05-06 14:30:49,110 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-06 14:35:28,047 - INFO - User logged in successfully.
+2024-05-06 14:35:28,047 - WARNING - User not found in the database.
+2024-05-06 14:35:28,051 - INFO - Database initialized successfully.
+2024-05-06 14:52:53,787 - INFO - User logged in successfully.
+2024-05-06 14:52:53,787 - WARNING - User not found in the database.
+2024-05-06 14:52:53,791 - INFO - Database initialized successfully.
+2024-05-06 14:53:40,355 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-06 14:53:42,267 - INFO - User logged in successfully.
+2024-05-06 14:53:42,267 - WARNING - User not found in the database.
+2024-05-06 14:53:42,268 - INFO - Database initialized successfully.
+2024-05-06 14:56:07,538 - INFO - User logged in successfully.
+2024-05-06 14:56:07,538 - WARNING - User not found in the database.
+2024-05-06 14:56:07,542 - INFO - Database initialized successfully.
+2024-05-06 14:56:07,548 - ERROR - Failed to initialize database: No module named 'matplotlib'
+2024-05-06 14:56:15,503 - INFO - User logged in successfully.
+2024-05-06 14:56:15,504 - WARNING - User not found in the database.
+2024-05-06 14:56:15,504 - INFO - Database initialized successfully.
+2024-05-06 14:56:15,505 - ERROR - Failed to initialize database: No module named 'matplotlib'
+2024-05-06 14:58:00,328 - INFO - User logged in successfully.
+2024-05-06 14:58:00,328 - WARNING - User not found in the database.
+2024-05-06 14:58:00,331 - INFO - Database initialized successfully.
+2024-05-06 14:58:00,338 - ERROR - Failed to initialize database: No module named 'matplotlib'
+2024-05-06 15:00:01,424 - INFO - User logged in successfully.
+2024-05-06 15:00:01,425 - WARNING - User not found in the database.
+2024-05-06 15:00:01,427 - INFO - Database initialized successfully.
+2024-05-06 15:03:28,649 - INFO - User logged in successfully.
+2024-05-06 15:03:28,649 - WARNING - User not found in the database.
+2024-05-06 15:03:28,650 - INFO - Database initialized successfully.
+2024-05-06 15:28:07,987 - INFO - User logged in successfully.
+2024-05-06 15:28:07,988 - WARNING - User not found in the database.
+2024-05-06 15:28:07,990 - INFO - Database initialized successfully.
+2024-05-06 15:34:58,554 - INFO - User logged in successfully.
+2024-05-06 15:34:58,554 - WARNING - User not found in the database.
+2024-05-06 15:34:58,556 - INFO - Database initialized successfully.
+2024-05-06 15:35:54,977 - INFO - User logged in successfully.
+2024-05-06 15:35:54,977 - WARNING - User not found in the database.
+2024-05-06 15:35:54,978 - INFO - Database initialized successfully.
+2024-05-06 15:36:50,364 - INFO - User logged in successfully.
+2024-05-06 15:36:50,365 - WARNING - User not found in the database.
+2024-05-06 15:36:50,366 - INFO - Database initialized successfully.
+2024-05-06 15:37:47,092 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-06 15:38:26,543 - INFO - User logged in successfully.
+2024-05-06 15:38:26,543 - WARNING - User not found in the database.
+2024-05-06 15:38:26,546 - INFO - Database initialized successfully.
+2024-05-06 15:42:37,308 - INFO - User logged in successfully.
+2024-05-06 15:42:37,308 - WARNING - User not found in the database.
+2024-05-06 15:42:37,309 - INFO - Database initialized successfully.
+2024-05-06 15:47:00,796 - INFO - User logged in successfully.
+2024-05-06 15:47:00,796 - WARNING - User not found in the database.
+2024-05-06 15:47:00,800 - INFO - Database initialized successfully.
+2024-05-06 15:48:10,414 - INFO - User logged in successfully.
+2024-05-06 15:48:10,414 - WARNING - User not found in the database.
+2024-05-06 15:48:10,415 - INFO - Database initialized successfully.
+2024-05-06 15:49:56,761 - INFO - User logged in successfully.
+2024-05-06 15:49:56,761 - WARNING - User not found in the database.
+2024-05-06 15:49:56,762 - INFO - Database initialized successfully.
+2024-05-06 16:06:38,946 - INFO - User logged in successfully.
+2024-05-06 16:06:38,947 - WARNING - User not found in the database.
+2024-05-06 16:06:38,950 - INFO - Database initialized successfully.
+2024-05-06 16:09:06,335 - INFO - User logged in successfully.
+2024-05-06 16:09:06,335 - WARNING - User not found in the database.
+2024-05-06 16:09:06,336 - INFO - Database initialized successfully.
+2024-05-06 16:10:18,405 - INFO - User logged in successfully.
+2024-05-06 16:10:18,405 - WARNING - User not found in the database.
+2024-05-06 16:10:18,406 - INFO - Database initialized successfully.
+2024-05-06 16:14:34,868 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-06 16:16:23,876 - INFO - User logged in successfully.
+2024-05-06 16:16:23,876 - WARNING - User not found in the database.
+2024-05-06 16:16:23,879 - INFO - Database initialized successfully.
+2024-05-06 16:34:51,225 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-06 16:35:59,954 - INFO - User logged in successfully.
+2024-05-06 16:35:59,954 - WARNING - User not found in the database.
+2024-05-06 16:35:59,956 - INFO - Database initialized successfully.
+2024-05-06 16:39:36,237 - INFO - User logged in successfully.
+2024-05-06 16:39:36,237 - WARNING - User not found in the database.
+2024-05-06 16:39:36,238 - INFO - Database initialized successfully.
+2024-05-06 16:40:37,199 - INFO - User logged in successfully.
+2024-05-06 16:40:37,199 - WARNING - User not found in the database.
+2024-05-06 16:40:37,201 - INFO - Database initialized successfully.
+2024-05-06 16:41:07,424 - INFO - User logged in successfully.
+2024-05-06 16:41:07,424 - WARNING - User not found in the database.
+2024-05-06 16:41:07,425 - INFO - Database initialized successfully.
+2024-05-06 16:42:59,132 - INFO - User logged in successfully.
+2024-05-06 16:42:59,132 - WARNING - User not found in the database.
+2024-05-06 16:42:59,133 - INFO - Database initialized successfully.
+2024-05-06 16:46:05,405 - INFO - User logged in successfully.
+2024-05-06 16:46:05,405 - WARNING - User not found in the database.
+2024-05-06 16:46:05,406 - INFO - Database initialized successfully.
+2024-05-06 16:47:20,119 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 13:44:20,209 - INFO - User logged in successfully.
+2024-05-23 13:44:20,209 - WARNING - User not found in the database.
+2024-05-23 13:44:20,212 - INFO - Database initialized successfully.
+2024-05-23 13:54:59,056 - INFO - User logged in successfully.
+2024-05-23 13:54:59,056 - WARNING - User not found in the database.
+2024-05-23 13:54:59,060 - INFO - Database initialized successfully.
+2024-05-23 13:59:06,056 - INFO - User logged in successfully.
+2024-05-23 13:59:06,057 - WARNING - User not found in the database.
+2024-05-23 13:59:06,058 - INFO - Database initialized successfully.
+2024-05-23 14:10:53,112 - INFO - User logged in successfully.
+2024-05-23 14:10:53,112 - WARNING - User not found in the database.
+2024-05-23 14:10:53,115 - INFO - Database initialized successfully.
+2024-05-23 14:12:44,197 - INFO - User logged in successfully.
+2024-05-23 14:12:44,197 - WARNING - User not found in the database.
+2024-05-23 14:12:44,197 - INFO - Database initialized successfully.
+2024-05-23 14:14:09,924 - INFO - User logged in successfully.
+2024-05-23 14:14:09,924 - WARNING - User not found in the database.
+2024-05-23 14:14:09,925 - INFO - Database initialized successfully.
+2024-05-23 14:21:22,430 - INFO - User logged in successfully.
+2024-05-23 14:21:22,430 - WARNING - User not found in the database.
+2024-05-23 14:21:22,434 - INFO - Database initialized successfully.
+2024-05-23 14:22:41,614 - INFO - User logged in successfully.
+2024-05-23 14:22:41,614 - WARNING - User not found in the database.
+2024-05-23 14:22:41,614 - INFO - Database initialized successfully.
+2024-05-23 14:24:18,530 - INFO - User logged in successfully.
+2024-05-23 14:24:18,530 - WARNING - User not found in the database.
+2024-05-23 14:24:18,531 - INFO - Database initialized successfully.
+2024-05-23 14:25:41,750 - INFO - User logged in successfully.
+2024-05-23 14:25:41,751 - WARNING - User not found in the database.
+2024-05-23 14:25:41,752 - INFO - Database initialized successfully.
+2024-05-23 14:29:58,011 - INFO - User logged in successfully.
+2024-05-23 14:29:58,011 - WARNING - User not found in the database.
+2024-05-23 14:29:58,014 - INFO - Database initialized successfully.
+2024-05-23 14:34:01,148 - INFO - User logged in successfully.
+2024-05-23 14:34:01,148 - WARNING - User not found in the database.
+2024-05-23 14:34:01,149 - INFO - Database initialized successfully.
+2024-05-23 14:34:13,686 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:34:13,687 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:38:29,045 - INFO - User logged in successfully.
+2024-05-23 14:38:29,045 - WARNING - User not found in the database.
+2024-05-23 14:38:29,048 - INFO - Database initialized successfully.
+2024-05-23 14:42:59,884 - INFO - User logged in successfully.
+2024-05-23 14:42:59,884 - WARNING - User not found in the database.
+2024-05-23 14:42:59,888 - INFO - Database initialized successfully.
+2024-05-23 14:43:08,332 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:43:08,332 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:43:08,336 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:43:08,336 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:43:08,339 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:43:08,339 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:46:36,874 - INFO - User logged in successfully.
+2024-05-23 14:46:36,874 - WARNING - User not found in the database.
+2024-05-23 14:46:36,877 - INFO - Database initialized successfully.
+2024-05-23 14:46:42,606 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:46:42,607 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:48:39,617 - INFO - User logged in successfully.
+2024-05-23 14:48:39,618 - WARNING - User not found in the database.
+2024-05-23 14:48:39,619 - INFO - Database initialized successfully.
+2024-05-23 14:48:45,692 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:48:45,692 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:59:11,538 - INFO - User logged in successfully.
+2024-05-23 14:59:11,538 - WARNING - User not found in the database.
+2024-05-23 14:59:11,542 - INFO - Database initialized successfully.
+2024-05-23 14:59:49,596 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 14:59:49,597 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 15:03:43,339 - INFO - User logged in successfully.
+2024-05-23 15:03:43,339 - WARNING - User not found in the database.
+2024-05-23 15:03:43,343 - INFO - Database initialized successfully.
+2024-05-23 15:03:50,990 - ERROR - Authentication failed for user 1: type object 'DBManager' has no attribute 'authenticate_user'
+2024-05-23 15:03:52,657 - ERROR - Authentication failed for user 1: type object 'DBManager' has no attribute 'authenticate_user'
+2024-05-23 15:05:05,930 - INFO - User logged in successfully.
+2024-05-23 15:05:05,930 - WARNING - User not found in the database.
+2024-05-23 15:05:05,934 - INFO - Database initialized successfully.
+2024-05-23 15:05:09,888 - ERROR - Authentication failed for user 1: type object 'DBManager' has no attribute 'authenticate_user'
+2024-05-23 15:05:18,074 - INFO - Username already exists.
+2024-05-23 15:05:23,443 - INFO - User 2 registered successfully.
+2024-05-23 15:05:27,021 - ERROR - Authentication failed for user 2: type object 'DBManager' has no attribute 'authenticate_user'
+2024-05-23 15:08:07,853 - INFO - User logged in successfully.
+2024-05-23 15:08:07,853 - WARNING - User not found in the database.
+2024-05-23 15:08:07,855 - INFO - Database initialized successfully.
+2024-05-23 15:08:11,234 - ERROR - Authentication failed for user 1: name 'bcrypt' is not defined
+2024-05-23 15:08:52,811 - INFO - User logged in successfully.
+2024-05-23 15:08:52,811 - WARNING - User not found in the database.
+2024-05-23 15:08:52,812 - INFO - Database initialized successfully.
+2024-05-23 15:08:59,572 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 15:10:23,698 - INFO - User logged in successfully.
+2024-05-23 15:10:23,699 - WARNING - User not found in the database.
+2024-05-23 15:10:23,702 - INFO - Database initialized successfully.
+2024-05-23 15:13:57,712 - INFO - User logged in successfully.
+2024-05-23 15:13:57,712 - WARNING - User not found in the database.
+2024-05-23 15:13:57,713 - INFO - Database initialized successfully.
+2024-05-23 15:13:58,690 - ERROR - Failed to initialize database: name 'register_clicked' is not defined
+2024-05-23 15:14:18,485 - INFO - User logged in successfully.
+2024-05-23 15:14:18,485 - WARNING - User not found in the database.
+2024-05-23 15:14:18,489 - INFO - Database initialized successfully.
+2024-05-23 15:14:19,011 - ERROR - Failed to initialize database: name 'root' is not defined
+2024-05-23 15:21:09,201 - INFO - User logged in successfully.
+2024-05-23 15:21:09,201 - WARNING - User not found in the database.
+2024-05-23 15:21:09,204 - INFO - Database initialized successfully.
+2024-05-23 15:21:17,858 - INFO - User logged in successfully.
+2024-05-23 15:21:17,858 - WARNING - User not found in the database.
+2024-05-23 15:21:17,858 - INFO - Database initialized successfully.
+2024-05-23 15:21:43,785 - ERROR - Failed to register user 2: User.__init__() takes 5 positional arguments but 6 were given
+2024-05-23 15:21:50,134 - ERROR - Failed to register user 3: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:22:09,398 - ERROR - Failed to register user HIHI: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:23:23,667 - INFO - User logged in successfully.
+2024-05-23 15:23:23,667 - WARNING - User not found in the database.
+2024-05-23 15:23:23,669 - INFO - Database initialized successfully.
+2024-05-23 15:23:30,287 - INFO - User logged in successfully.
+2024-05-23 15:23:30,287 - WARNING - User not found in the database.
+2024-05-23 15:23:30,288 - INFO - Database initialized successfully.
+2024-05-23 15:23:36,129 - INFO - Attempting to register user: 6
+2024-05-23 15:23:36,131 - INFO - Creating new user: 6
+2024-05-23 15:23:36,131 - ERROR - Failed to register user 6: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:26:38,656 - INFO - User logged in successfully.
+2024-05-23 15:26:38,656 - WARNING - User not found in the database.
+2024-05-23 15:26:38,660 - INFO - Database initialized successfully.
+2024-05-23 15:26:47,693 - INFO - Attempting to register user: 8
+2024-05-23 15:26:47,696 - INFO - Creating new user: 8
+2024-05-23 15:26:47,696 - ERROR - Failed to register user 8: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:27:12,393 - INFO - Attempting to register user: 8
+2024-05-23 15:27:12,396 - INFO - Creating new user: 8
+2024-05-23 15:27:12,398 - ERROR - Failed to register user 8: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:29:09,160 - INFO - User logged in successfully.
+2024-05-23 15:29:09,160 - WARNING - User not found in the database.
+2024-05-23 15:29:09,164 - INFO - Database initialized successfully.
+2024-05-23 15:29:14,977 - INFO - Attempting to register user: v
+2024-05-23 15:29:14,978 - INFO - Creating new user: v
+2024-05-23 15:29:14,978 - ERROR - Failed to register user v: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:30:56,466 - INFO - User logged in successfully.
+2024-05-23 15:30:56,466 - WARNING - User not found in the database.
+2024-05-23 15:30:56,469 - INFO - Database initialized successfully.
+2024-05-23 15:31:05,244 - INFO - Attempting to register user: 3
+2024-05-23 15:31:05,247 - INFO - Creating new user: 3
+2024-05-23 15:31:05,247 - ERROR - Failed to register user 3: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:32:50,264 - INFO - User logged in successfully.
+2024-05-23 15:32:50,265 - WARNING - User not found in the database.
+2024-05-23 15:32:50,265 - INFO - Database initialized successfully.
+2024-05-23 15:32:55,807 - INFO - Attempting to register user: f
+2024-05-23 15:32:55,808 - INFO - Creating new user: f
+2024-05-23 15:32:55,808 - ERROR - Failed to register user f: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:34:29,678 - INFO - User logged in successfully.
+2024-05-23 15:34:29,678 - WARNING - User not found in the database.
+2024-05-23 15:36:15,545 - INFO - User logged in successfully.
+2024-05-23 15:36:15,545 - WARNING - User not found in the database.
+2024-05-23 15:36:15,553 - INFO - Database initialized successfully.
+2024-05-23 15:36:20,706 - INFO - Attempting to register user: h
+2024-05-23 15:36:20,708 - INFO - Creating new user: h
+2024-05-23 15:36:20,708 - ERROR - Failed to register user h: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:40:37,734 - INFO - User logged in successfully.
+2024-05-23 15:40:37,734 - WARNING - User not found in the database.
+2024-05-23 15:40:37,735 - INFO - Database initialized successfully.
+2024-05-23 15:40:42,986 - INFO - Attempting to register user: g
+2024-05-23 15:40:42,988 - INFO - Creating new user: g
+2024-05-23 15:40:42,988 - ERROR - Failed to register user g: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:42:06,459 - INFO - User logged in successfully.
+2024-05-23 15:42:06,459 - WARNING - User not found in the database.
+2024-05-23 15:42:06,462 - INFO - Database initialized successfully.
+2024-05-23 15:42:12,518 - INFO - Attempting to register user: f
+2024-05-23 15:42:12,520 - INFO - Creating new user: f
+2024-05-23 15:42:12,520 - ERROR - Failed to register user f: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:47:19,977 - INFO - User logged in successfully.
+2024-05-23 15:47:19,977 - WARNING - User not found in the database.
+2024-05-23 15:47:19,980 - INFO - Database initialized successfully.
+2024-05-23 15:47:35,843 - INFO - Attempting to register user: l
+2024-05-23 15:47:35,847 - INFO - Creating new user: l
+2024-05-23 15:47:35,848 - ERROR - Exception occurred while registering user: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:47:37,242 - INFO - Attempting to register user: l
+2024-05-23 15:47:37,243 - INFO - Creating new user: l
+2024-05-23 15:47:37,243 - ERROR - Exception occurred while registering user: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:49:08,379 - INFO - User logged in successfully.
+2024-05-23 15:49:08,379 - WARNING - User not found in the database.
+2024-05-23 15:49:08,379 - INFO - Database initialized successfully.
+2024-05-23 15:49:15,289 - INFO - Attempting to register user: l
+2024-05-23 15:49:15,291 - INFO - Creating new user: l
+2024-05-23 15:49:15,530 - ERROR - Exception occurred while registering user: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:52:05,932 - INFO - User logged in successfully.
+2024-05-23 15:52:05,932 - WARNING - User not found in the database.
+2024-05-23 15:52:05,933 - INFO - Database initialized successfully.
+2024-05-23 15:52:11,834 - INFO - Attempting to register user: g
+2024-05-23 15:52:11,834 - INFO - Creating new user: g
+2024-05-23 15:52:12,092 - ERROR - Exception occurred while registering user: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:54:28,262 - INFO - User logged in successfully.
+2024-05-23 15:54:28,262 - WARNING - User not found in the database.
+2024-05-23 15:54:28,263 - INFO - Database initialized successfully.
+2024-05-23 15:54:35,696 - INFO - Attempting to register user: c
+2024-05-23 15:54:35,697 - INFO - Creating new user: c
+2024-05-23 15:54:35,946 - ERROR - Exception occurred while registering user: 'User' object has no attribute 'profile_picture'
+2024-05-23 15:56:23,757 - INFO - User logged in successfully.
+2024-05-23 15:56:23,757 - WARNING - User not found in the database.
+2024-05-23 15:56:23,758 - INFO - Database initialized successfully.
+2024-05-23 15:56:29,094 - INFO - Attempting to register user: x
+2024-05-23 15:56:29,095 - INFO - Creating new user: x
+2024-05-23 15:56:29,357 - INFO - User x registered successfully.
+2024-05-23 15:57:36,204 - INFO - User logged in successfully.
+2024-05-23 15:57:36,204 - WARNING - User not found in the database.
+2024-05-23 15:57:36,208 - INFO - Database initialized successfully.
+2024-05-23 15:57:46,642 - INFO - Attempting to register user: hi
+2024-05-23 15:57:46,644 - INFO - Creating new user: hi
+2024-05-23 15:57:46,904 - INFO - User hi registered successfully.
+2024-05-23 15:58:33,187 - INFO - User logged in successfully.
+2024-05-23 15:58:33,188 - WARNING - User not found in the database.
+2024-05-23 15:58:33,189 - INFO - Database initialized successfully.
+2024-05-23 15:58:39,253 - INFO - Attempting to register user: f
+2024-05-23 15:58:39,255 - INFO - Creating new user: f
+2024-05-23 15:58:39,496 - INFO - User f registered successfully.
+2024-05-23 16:01:17,520 - INFO - User logged in successfully.
+2024-05-23 16:01:17,523 - WARNING - User not found in the database.
+2024-05-23 16:01:17,524 - INFO - Database initialized successfully.
+2024-05-23 16:01:25,533 - INFO - Attempting to register user: o
+2024-05-23 16:01:25,535 - INFO - Creating new user: o
+2024-05-23 16:01:25,808 - INFO - User o registered successfully.
+2024-05-23 16:03:40,981 - INFO - User logged in successfully.
+2024-05-23 16:03:40,981 - WARNING - User not found in the database.
+2024-05-23 16:03:40,982 - INFO - Database initialized successfully.
+2024-05-23 16:05:05,286 - INFO - User logged in successfully.
+2024-05-23 16:05:05,286 - WARNING - User not found in the database.
+2024-05-23 16:05:05,290 - INFO - Database initialized successfully.
+2024-05-23 16:06:20,951 - INFO - User logged in successfully.
+2024-05-23 16:06:20,951 - WARNING - User not found in the database.
+2024-05-23 16:06:20,952 - INFO - Database initialized successfully.
+2024-05-23 16:06:28,921 - INFO - Attempting to register user: k
+2024-05-23 16:06:28,923 - INFO - Creating new user: k
+2024-05-23 16:06:29,196 - INFO - User k registered successfully.
+2024-05-23 16:08:57,772 - INFO - User logged in successfully.
+2024-05-23 16:08:57,772 - WARNING - User not found in the database.
+2024-05-23 16:08:57,775 - INFO - Database initialized successfully.
+2024-05-23 16:09:06,266 - ERROR - Authentication failed for user k: name 'bcrypt' is not defined
+2024-05-23 16:09:19,899 - ERROR - Authentication failed for user 1: name 'bcrypt' is not defined
+2024-05-23 16:10:57,434 - INFO - User logged in successfully.
+2024-05-23 16:10:57,434 - WARNING - User not found in the database.
+2024-05-23 16:10:57,435 - INFO - Database initialized successfully.
+2024-05-23 16:15:54,839 - INFO - User logged in successfully.
+2024-05-23 16:15:54,839 - WARNING - User not found in the database.
+2024-05-23 16:15:54,843 - INFO - Database initialized successfully.
+2024-05-23 16:16:06,233 - INFO - Attempting to register user: y
+2024-05-23 16:16:06,235 - INFO - Creating new user: y
+2024-05-23 16:16:06,503 - INFO - User y registered successfully.
+2024-05-23 16:16:12,532 - ERROR - Authentication failed for user y: name 'bcrypt' is not defined
+2024-05-23 16:17:59,869 - INFO - User logged in successfully.
+2024-05-23 16:17:59,869 - WARNING - User not found in the database.
+2024-05-23 16:17:59,869 - INFO - Database initialized successfully.
+2024-05-23 16:18:03,497 - ERROR - Authentication failed for user 1: name 'bcrypt' is not defined
+2024-05-23 16:19:00,524 - INFO - User logged in successfully.
+2024-05-23 16:19:00,524 - WARNING - User not found in the database.
+2024-05-23 16:19:00,525 - INFO - Database initialized successfully.
+2024-05-23 16:20:20,456 - INFO - User logged in successfully.
+2024-05-23 16:20:20,456 - WARNING - User not found in the database.
+2024-05-23 16:20:20,459 - INFO - Database initialized successfully.
+2024-05-23 16:21:41,895 - INFO - User logged in successfully.
+2024-05-23 16:21:41,896 - WARNING - User not found in the database.
+2024-05-23 16:21:41,896 - INFO - Database initialized successfully.
+2024-05-23 16:22:47,265 - INFO - User logged in successfully.
+2024-05-23 16:22:47,265 - WARNING - User not found in the database.
+2024-05-23 16:22:47,266 - INFO - Database initialized successfully.
+2024-05-23 16:23:50,940 - INFO - User logged in successfully.
+2024-05-23 16:23:50,940 - WARNING - User not found in the database.
+2024-05-23 16:23:50,940 - INFO - Database initialized successfully.
+2024-05-23 16:26:50,439 - INFO - User logged in successfully.
+2024-05-23 16:26:50,440 - WARNING - User not found in the database.
+2024-05-23 16:26:50,440 - INFO - Database initialized successfully.
+2024-05-23 16:29:00,372 - INFO - User logged in successfully.
+2024-05-23 16:29:00,372 - WARNING - User not found in the database.
+2024-05-23 16:29:00,373 - INFO - Database initialized successfully.
+2024-05-23 16:29:11,402 - INFO - User logged in successfully.
+2024-05-23 16:29:11,402 - WARNING - User not found in the database.
+2024-05-23 16:29:11,402 - INFO - Database initialized successfully.
+2024-05-23 16:33:10,022 - INFO - User logged in successfully.
+2024-05-23 16:33:10,022 - WARNING - User not found in the database.
+2024-05-23 16:33:10,026 - INFO - Database initialized successfully.
+2024-05-23 16:33:19,977 - INFO - User logged in successfully.
+2024-05-23 16:33:19,978 - WARNING - User not found in the database.
+2024-05-23 16:33:19,978 - INFO - Database initialized successfully.
+2024-05-23 16:34:41,242 - INFO - User logged in successfully.
+2024-05-23 16:34:41,242 - WARNING - User not found in the database.
+2024-05-23 16:34:41,242 - INFO - Database initialized successfully.
+2024-05-23 16:34:47,008 - ERROR - Failed to register user f: DBManager.add_user() missing 2 required positional arguments: 'username' and 'password'
+2024-05-23 16:34:54,124 - ERROR - Failed to register user y: DBManager.add_user() missing 2 required positional arguments: 'username' and 'password'
+2024-05-23 16:35:04,257 - ERROR - Failed to register user pp: DBManager.add_user() missing 2 required positional arguments: 'username' and 'password'
+2024-05-23 16:43:32,877 - INFO - User logged in successfully.
+2024-05-23 16:43:32,877 - WARNING - User not found in the database.
+2024-05-23 16:43:32,879 - INFO - Database initialized successfully.
+2024-05-23 16:45:33,545 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 16:45:39,534 - INFO - User logged in successfully.
+2024-05-23 16:45:39,534 - WARNING - User not found in the database.
+2024-05-23 16:45:39,536 - INFO - Database initialized successfully.
+2024-05-23 16:59:45,527 - INFO - User logged in successfully.
+2024-05-23 16:59:45,528 - WARNING - User not found in the database.
+2024-05-23 16:59:45,529 - INFO - Database initialized successfully.
+2024-05-23 16:59:57,791 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 17:01:49,705 - INFO - User logged in successfully.
+2024-05-23 17:01:49,705 - WARNING - User not found in the database.
+2024-05-23 17:01:49,711 - INFO - Database initialized successfully.
+2024-05-23 17:02:52,241 - INFO - User logged in successfully.
+2024-05-23 17:02:52,241 - WARNING - User not found in the database.
+2024-05-23 17:02:52,242 - INFO - Database initialized successfully.
+2024-05-23 17:03:38,827 - INFO - User logged in successfully.
+2024-05-23 17:03:38,827 - WARNING - User not found in the database.
+2024-05-23 17:03:38,829 - INFO - Database initialized successfully.
+2024-05-23 17:04:25,362 - INFO - User logged in successfully.
+2024-05-23 17:04:25,362 - WARNING - User not found in the database.
+2024-05-23 17:04:25,362 - INFO - Database initialized successfully.
+2024-05-23 17:05:16,183 - INFO - User logged in successfully.
+2024-05-23 17:05:16,183 - WARNING - User not found in the database.
+2024-05-23 17:05:16,184 - INFO - Database initialized successfully.
+2024-05-23 17:05:23,220 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 17:05:23,222 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 17:05:35,411 - INFO - User logged in successfully.
+2024-05-23 17:05:35,411 - WARNING - User not found in the database.
+2024-05-23 17:05:35,412 - INFO - Database initialized successfully.
+2024-05-23 17:05:40,681 - INFO - User d registered successfully.
+2024-05-23 17:05:49,196 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 17:05:49,196 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 19:16:00,012 - INFO - User logged in successfully.
+2024-05-23 19:16:00,016 - WARNING - User not found in the database.
+2024-05-23 19:16:00,020 - INFO - Database initialized successfully.
+2024-05-23 19:18:07,318 - INFO - User logged in successfully.
+2024-05-23 19:18:07,318 - WARNING - User not found in the database.
+2024-05-23 19:18:07,319 - INFO - Database initialized successfully.
+2024-05-23 19:18:17,026 - INFO - User logged in successfully.
+2024-05-23 19:18:17,026 - WARNING - User not found in the database.
+2024-05-23 19:18:17,027 - INFO - Database initialized successfully.
+2024-05-23 19:19:00,764 - INFO - User logged in successfully.
+2024-05-23 19:19:00,764 - WARNING - User not found in the database.
+2024-05-23 19:19:00,765 - INFO - Database initialized successfully.
+2024-05-23 19:19:10,459 - INFO - User logged in successfully.
+2024-05-23 19:19:10,459 - WARNING - User not found in the database.
+2024-05-23 19:19:10,460 - INFO - Database initialized successfully.
+2024-05-23 19:19:31,325 - INFO - User logged in successfully.
+2024-05-23 19:19:31,325 - WARNING - User not found in the database.
+2024-05-23 19:19:31,326 - INFO - Database initialized successfully.
+2024-05-23 19:21:14,616 - INFO - User logged in successfully.
+2024-05-23 19:21:14,616 - WARNING - User not found in the database.
+2024-05-23 19:21:14,618 - INFO - Database initialized successfully.
+2024-05-23 19:23:17,233 - INFO - User logged in successfully.
+2024-05-23 19:23:17,234 - WARNING - User not found in the database.
+2024-05-23 19:23:17,235 - INFO - Database initialized successfully.
+2024-05-23 19:23:26,741 - INFO - Username already exists.
+2024-05-23 19:23:40,765 - INFO - User ppp registered successfully.
+2024-05-23 19:25:33,209 - INFO - User logged in successfully.
+2024-05-23 19:25:33,209 - WARNING - User not found in the database.
+2024-05-23 19:25:33,210 - INFO - Database initialized successfully.
+2024-05-23 19:27:19,793 - INFO - User logged in successfully.
+2024-05-23 19:27:19,793 - WARNING - User not found in the database.
+2024-05-23 19:27:19,794 - INFO - Database initialized successfully.
+2024-05-23 19:29:15,141 - INFO - User logged in successfully.
+2024-05-23 19:29:15,141 - WARNING - User not found in the database.
+2024-05-23 19:29:15,142 - INFO - Database initialized successfully.
+2024-05-23 19:32:36,980 - INFO - User logged in successfully.
+2024-05-23 19:32:36,980 - WARNING - User not found in the database.
+2024-05-23 19:32:36,984 - INFO - Database initialized successfully.
+2024-05-23 19:40:33,044 - INFO - User logged in successfully.
+2024-05-23 19:40:33,044 - WARNING - User not found in the database.
+2024-05-23 19:40:33,048 - INFO - Database initialized successfully.
+2024-05-23 19:42:07,808 - INFO - User logged in successfully.
+2024-05-23 19:42:07,808 - WARNING - User not found in the database.
+2024-05-23 19:42:07,809 - INFO - Database initialized successfully.
+2024-05-23 19:43:57,182 - INFO - User logged in successfully.
+2024-05-23 19:43:57,182 - WARNING - User not found in the database.
+2024-05-23 19:43:57,183 - INFO - Database initialized successfully.
+2024-05-23 19:45:30,064 - INFO - User logged in successfully.
+2024-05-23 19:45:30,064 - WARNING - User not found in the database.
+2024-05-23 19:45:30,068 - INFO - Database initialized successfully.
+2024-05-23 19:47:37,397 - INFO - User logged in successfully.
+2024-05-23 19:47:37,397 - WARNING - User not found in the database.
+2024-05-23 19:47:37,400 - INFO - Database initialized successfully.
+2024-05-23 19:54:59,139 - INFO - User logged in successfully.
+2024-05-23 19:54:59,139 - WARNING - User not found in the database.
+2024-05-23 19:54:59,155 - INFO - Database initialized successfully.
+2024-05-23 19:57:01,634 - INFO - User logged in successfully.
+2024-05-23 19:57:01,634 - WARNING - User not found in the database.
+2024-05-23 19:57:01,635 - INFO - Database initialized successfully.
+2024-05-23 20:14:30,361 - INFO - User logged in successfully.
+2024-05-23 20:14:30,362 - WARNING - User not found in the database.
+2024-05-23 20:14:30,364 - INFO - Database initialized successfully.
+2024-05-23 20:14:50,453 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 20:14:50,454 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-23 20:15:11,434 - INFO - User logged in successfully.
+2024-05-23 20:15:11,435 - WARNING - User not found in the database.
+2024-05-23 20:15:11,436 - INFO - Database initialized successfully.
+2024-05-23 20:16:53,235 - INFO - User logged in successfully.
+2024-05-23 20:16:53,235 - WARNING - User not found in the database.
+2024-05-23 20:16:53,236 - INFO - Database initialized successfully.
+2024-05-23 20:17:03,183 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:17:05,269 - INFO - User logged in successfully.
+2024-05-23 20:17:05,269 - WARNING - User not found in the database.
+2024-05-23 20:17:05,269 - INFO - Database initialized successfully.
+2024-05-23 20:17:17,261 - INFO - User Test1 registered successfully.
+2024-05-23 20:20:12,624 - INFO - User logged in successfully.
+2024-05-23 20:20:12,624 - WARNING - User not found in the database.
+2024-05-23 20:20:12,625 - INFO - Database initialized successfully.
+2024-05-23 20:20:38,744 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:20:41,236 - INFO - User logged in successfully.
+2024-05-23 20:20:41,236 - WARNING - User not found in the database.
+2024-05-23 20:20:41,236 - INFO - Database initialized successfully.
+2024-05-23 20:20:48,331 - INFO - User logged in successfully.
+2024-05-23 20:20:48,331 - WARNING - User not found in the database.
+2024-05-23 20:20:48,332 - INFO - Database initialized successfully.
+2024-05-23 20:20:55,097 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:21:19,097 - INFO - User logged in successfully.
+2024-05-23 20:21:19,097 - WARNING - User not found in the database.
+2024-05-23 20:21:19,101 - INFO - Database initialized successfully.
+2024-05-23 20:21:24,500 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:21:28,694 - INFO - User logged in successfully.
+2024-05-23 20:21:28,694 - WARNING - User not found in the database.
+2024-05-23 20:21:28,694 - INFO - Database initialized successfully.
+2024-05-23 20:24:27,965 - INFO - User logged in successfully.
+2024-05-23 20:24:27,965 - WARNING - User not found in the database.
+2024-05-23 20:24:27,966 - INFO - Database initialized successfully.
+2024-05-23 20:24:35,483 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:24:42,297 - INFO - User logged in successfully.
+2024-05-23 20:24:42,297 - WARNING - User not found in the database.
+2024-05-23 20:24:42,299 - INFO - Database initialized successfully.
+2024-05-23 20:25:24,966 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:25:29,979 - INFO - User logged in successfully.
+2024-05-23 20:25:29,979 - WARNING - User not found in the database.
+2024-05-23 20:25:29,980 - INFO - Database initialized successfully.
+2024-05-23 20:26:01,048 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:26:09,742 - INFO - User logged in successfully.
+2024-05-23 20:26:09,742 - WARNING - User not found in the database.
+2024-05-23 20:26:09,742 - INFO - Database initialized successfully.
+2024-05-23 20:26:24,499 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:26:26,880 - INFO - User logged in successfully.
+2024-05-23 20:26:26,880 - WARNING - User not found in the database.
+2024-05-23 20:26:26,880 - INFO - Database initialized successfully.
+2024-05-23 20:26:37,867 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-05-23 20:28:32,304 - INFO - User logged in successfully.
+2024-05-23 20:28:32,304 - WARNING - User not found in the database.
+2024-05-23 20:28:32,307 - INFO - Database initialized successfully.
+2024-05-23 20:31:09,788 - INFO - User logged in successfully.
+2024-05-23 20:31:09,788 - WARNING - User not found in the database.
+2024-05-23 20:31:09,788 - INFO - Database initialized successfully.
+2024-05-23 20:32:46,640 - INFO - User logged in successfully.
+2024-05-23 20:32:46,640 - WARNING - User not found in the database.
+2024-05-23 20:32:46,640 - INFO - Database initialized successfully.
+2024-05-23 20:36:08,218 - INFO - User logged in successfully.
+2024-05-23 20:36:08,218 - WARNING - User not found in the database.
+2024-05-23 20:36:08,221 - INFO - Database initialized successfully.
+2024-05-23 20:37:30,738 - INFO - User logged in successfully.
+2024-05-23 20:37:30,738 - WARNING - User not found in the database.
+2024-05-23 20:37:30,739 - INFO - Database initialized successfully.
+2024-05-23 20:38:58,485 - INFO - User logged in successfully.
+2024-05-23 20:38:58,485 - WARNING - User not found in the database.
+2024-05-23 20:38:58,486 - INFO - Database initialized successfully.
+2024-05-23 20:41:45,672 - INFO - User logged in successfully.
+2024-05-23 20:41:45,672 - WARNING - User not found in the database.
+2024-05-23 20:41:45,672 - INFO - Database initialized successfully.
+2024-05-23 20:43:20,940 - INFO - User logged in successfully.
+2024-05-23 20:43:20,941 - WARNING - User not found in the database.
+2024-05-23 20:43:20,942 - INFO - Database initialized successfully.
+2024-05-23 20:46:18,306 - INFO - User logged in successfully.
+2024-05-23 20:46:18,306 - WARNING - User not found in the database.
+2024-05-23 20:46:18,307 - INFO - Database initialized successfully.
+2024-05-23 20:46:52,983 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-06-04 17:26:39,854 - INFO - User logged in successfully.
+2024-06-04 17:26:39,856 - WARNING - User not found in the database.
+2024-06-04 17:26:39,859 - INFO - Database initialized successfully.
+2024-06-04 17:27:10,543 - ERROR - Failed to initialize database: Too early to use font: no default root window
+2024-06-04 17:32:41,595 - INFO - User logged in successfully.
+2024-06-04 17:32:41,595 - WARNING - User not found in the database.
+2024-06-04 17:32:41,599 - INFO - Database initialized successfully.
+2024-06-04 17:33:01,498 - INFO - User logged in successfully.
+2024-06-04 17:33:01,499 - WARNING - User not found in the database.
+2024-06-04 17:33:01,499 - INFO - Database initialized successfully.
+2024-06-04 17:33:47,092 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-04 17:33:47,094 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
