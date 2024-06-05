@@ -75,11 +75,6 @@ Sure, here are the updated installation instructions, including steps for Window
     pip install -r requirements.txt
     ```
 
-6. **Run the application**:
-    ```sh
-    python main/main.py
-    ```
-
 ### Notes:
 - Ensure you have Git installed. If not, download it from [git-scm.com](https://git-scm.com/downloads).
 - The `Tcl/Tk` installation step for Windows users is usually unnecessary as `tkinter` comes bundled with the standard Python installer. If any issues arise, ensure you are using the latest Python version.
