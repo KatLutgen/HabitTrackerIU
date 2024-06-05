@@ -36,13 +36,6 @@ To start the Habit Tracker application, run the following command:
 python3 main.py
 ```
 
-### Delete Database
-
-To delete the existing database and start with a clean slate, run the following command:
-```sh
-rm Database/app.db
-```
-The application will reinitialize a new database on the next start.
 
 ## User Interface Overview
 
