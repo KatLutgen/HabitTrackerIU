@@ -16,12 +16,12 @@ Habit Tracker is a Python application that helps you develop and maintain good h
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/habit-tracker.git
+    git clone https://github.com/KatLutgen/HabitTrackerIU.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd habit-tracker
+    cd HabitTrackerIU
     ```
 
 3. Install the required dependencies:
