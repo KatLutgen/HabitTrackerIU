@@ -12,28 +12,84 @@ Habit Tracker is a Python application that helps you develop and maintain good h
 
 - Python 3.7+
 
+Sure, here are the updated installation instructions, including steps for Windows users, and instructions for installing `pip` and `brew` if they are not already installed:
+
 ### Installation Instructions
 
-1. Clone the repository:
+#### Prerequisites
+
+1. **Install Homebrew (for macOS users)**:
+    - Open Terminal and run:
+      ```sh
+      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      ```
+
+2. **Install pip (if not already installed)**:
+    - **Windows**:
+      - Download `get-pip.py` from [here](https://bootstrap.pypa.io/get-pip.py).
+      - Open Command Prompt and run:
+        ```sh
+        python get-pip.py
+        ```
+    - **macOS/Linux**:
+      - Open Terminal and run:
+        ```sh
+        curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+        python get-pip.py
+        ```
+
+#### Project Setup
+
+1. **Clone the repository**:
     ```sh
     git clone https://github.com/KatLutgen/HabitTrackerIU.git
     ```
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory**:
     ```sh
     cd HabitTrackerIU
     ```
 
-3. Install the required dependencies:
+3. **Install `Tcl/Tk` libraries**:
+    - **macOS**:
+      ```sh
+      brew install python-tk
+      ```
+    - **Windows**:
+      - `tkinter` is usually included with Python. If not, download and install the latest version of Python from [python.org](https://www.python.org/downloads/).
+
+4. **Create and activate a virtual environment**:
+    - **macOS/Linux**:
+      ```sh
+      python3 -m venv venv
+      source venv/bin/activate
+      ```
+    - **Windows**:
+      ```sh
+      python -m venv venv
+      venv\Scripts\activate
+      ```
+
+5. **Install the required dependencies**:
     ```sh
-    pip3 install -r requirements.txt
+    pip install -r requirements.txt
     ```
+
+6. **Run the application**:
+    ```sh
+    python main/main.py
+    ```
+
+### Notes:
+- Ensure you have Git installed. If not, download it from [git-scm.com](https://git-scm.com/downloads).
+- The `Tcl/Tk` installation step for Windows users is usually unnecessary as `tkinter` comes bundled with the standard Python installer. If any issues arise, ensure you are using the latest Python version.
+
 
 ### Run The Application
 
 To start the Habit Tracker application, run the following command:
 ```sh
-python3 main.py
+python3 main/main.py
 ```
 
 
