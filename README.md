@@ -57,7 +57,6 @@ The Register screen allows new users to create an account. Users need to fill in
 
 A "Register" button at the bottom submits the registration form. 
 
-![Register Screen](sandbox:/mnt/data/Bildschirmfoto%202024-06-05%20um%2010.44.35.png)
 
 ### 2. Main Menu
 
@@ -71,7 +70,6 @@ Upon successful login or registration, users are greeted with a welcome message 
 
 The **Load Test Data** button is designed to help users quickly populate their account with pre-defined habits and logs for testing purposes. This action will overwrite any existing data in the user's account, and it is intended solely for testing. Users should be cautious as this will delete all their current habits and logs.
 
-![Main Menu](sandbox:/mnt/data/Bildschirmfoto%202024-06-05%20um%2010.44.50.png)
 
 ### 3. Habit Menu
 
@@ -82,7 +80,6 @@ The Habit Menu provides options to manage habits:
 - **Log Habit**: Record progress on habits.
 - **Back to Main Menu**: Return to the main menu.
 
-![Habit Menu](sandbox:/mnt/data/Bildschirmfoto%202024-06-05%20um%2010.44.58.png)
 
 ### 4. Analysis Menu
 
@@ -93,7 +90,6 @@ The Analysis Menu offers various options to analyze habit data:
 - **Categorization Analysis**: Categorize habits and view statistics.
 - **Time Analysis**: Analyze habits over time.
 
-![Analysis Menu](sandbox:/mnt/data/Bildschirmfoto%202024-06-05%20um%2010.45.05.png)
 
 ### 5. Account Settings
 
@@ -106,7 +102,6 @@ In the Account Settings screen, users can update their personal information:
 
 A "Update" button at the bottom submits the changes.
 
-![Account Settings](sandbox:/mnt/data/Bildschirmfoto%202024-06-05%20um%2010.45.11.png)
 
 ### Summary
 
