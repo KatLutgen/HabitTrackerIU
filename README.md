@@ -7,7 +7,7 @@ Habit Tracker is a Python application designed to help you develop and maintain 
 ### Prerequisites
 
 - **Python 3.7+**: Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
-- **Git**: Ensure you have Git installed. If not, download it from [git-scm.com](https://git-scm.com/downloads).
+- **Git**: Ensure you have Git installed.
 
 ### Installation Instructions
 
