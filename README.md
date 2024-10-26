@@ -1,91 +1,83 @@
-Sure, here is the complete User Interface Overview for your GitHub README, including the "Load Test Data" button:
-
----
-
 # Habit Tracker
 
-Habit Tracker is a Python application that helps you develop and maintain good habits. It allows you to create, track, and analyze your habits, providing a comprehensive solution for personal growth and self-improvement.
+Habit Tracker is a Python application designed to help you develop and maintain good habits. It allows you to create, track, and analyze your habits, providing a comprehensive solution for personal growth and self-improvement.
 
 ## How To Get Started
 
-### Dependencies
+### Prerequisites
 
-- Python 3.7+
-
-Sure, here are the updated installation instructions, including steps for Windows users, and instructions for installing `pip` and `brew` if they are not already installed:
+- **Python 3.7+**: Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+- **Git**: Ensure you have Git installed. If not, download it from [git-scm.com](https://git-scm.com/downloads).
 
 ### Installation Instructions
 
-#### Prerequisites
-
-1. **Install Homebrew (for macOS users)**:
-    - Open Terminal and run:
-      ```sh
-      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-      ```
-
-2. **Install pip (if not already installed)**:
-    - **Windows**:
-      - Download `get-pip.py` from [here](https://bootstrap.pypa.io/get-pip.py).
-      - Open Command Prompt and run:
-        ```sh
-        python get-pip.py
-        ```
-    - **macOS/Linux**:
-      - Open Terminal and run:
-        ```sh
-        curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-        python get-pip.py
-        ```
-
-#### Project Setup
-
 1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/KatLutgen/HabitTrackerIU.git
-    ```
+   ```bash
+   git clone https://github.com/KatLutgen/HabitTrackerIU.git
+   ```
 
 2. **Navigate to the project directory**:
-    ```sh
-    cd HabitTrackerIU
-    ```
+   ```bash
+   cd HabitTrackerIU
+   ```
 
-3. **Install `Tcl/Tk` libraries**:
-    - **macOS**:
-      ```sh
-      brew install python-tk
-      ```
-    - **Windows**:
-      - `tkinter` is usually included with Python. If not, download and install the latest version of Python from [python.org](https://www.python.org/downloads/).
+3. **Run the setup script**:
+   The `setup.sh` script will handle the installation of dependencies and setup of the virtual environment for you.
+   ```bash
+   ./setup.sh
+   ```
 
-4. **Create and activate a virtual environment**:
-    - **macOS/Linux**:
-      ```sh
-      python3 -m venv venv
-      source venv/bin/activate
-      ```
-    - **Windows**:
-      ```sh
-      python -m venv venv
-      venv\Scripts\activate
-      ```
+   If you encounter any permission issues, you may need to run:
+   ```bash
+   chmod +x setup.sh
+   ./setup.sh
+   ```
 
-5. **Install the required dependencies**:
-    ```sh
-    pip install -r requirements.txt
-    ```
+### Manual Setup (if not using `setup.sh`)
 
-### Notes:
-- Ensure you have Git installed. If not, download it from [git-scm.com](https://git-scm.com/downloads).
-- The `Tcl/Tk` installation step for Windows users is usually unnecessary as `tkinter` comes bundled with the standard Python installer. If any issues arise, ensure you are using the latest Python version.
+If you prefer to set up the project manually, follow these steps:
 
+1. **Install `Tcl/Tk` libraries**:
+   - **macOS**:
+     ```bash
+     brew install python-tk
+     ```
+   - **Windows**:
+     - `tkinter` is usually included with Python. If not, download and install the latest version of Python from [python.org](https://www.python.org/downloads/).
+
+2. **Create and activate a virtual environment**:
+   - **macOS/Linux**:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+   - **Windows**:
+     ```bash
+     python -m venv venv
+     venv\Scripts\activate
+     ```
+
+3. **Install the required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Run The Application
 
 To start the Habit Tracker application, run the following command:
-```sh
+```bash
 python3 main/main.py
 ```
+
+
+
+### Notes
+
+- The project includes a `.gitignore` file to exclude unnecessary files and directories from being committed to the repository.
+- The **Load Test Data** feature allows users to populate their account with example data for testing purposes. Use with caution as it will overwrite existing data.
+
+---
+
 
 
 ## User Interface Overview
